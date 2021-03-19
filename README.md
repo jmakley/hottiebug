@@ -1,10 +1,7 @@
 # hottiebug
-<!DOCTYPE HTML>
 <html>
 
 <head>
-
-    <meta charset=”UTF-8”>
 
     <!-- THE TITLE WILL APPEAR IN THE BROWSER WINDOW OR TAB -->
     <title>Hottie Bug</title>
