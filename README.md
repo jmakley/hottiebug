@@ -50,7 +50,7 @@
             <ul>
  
                 <li><a href="hottiebug brochure.pdf"> FOCO BROCHURE </a></li>
-                <li><a href="https://www.depop.com/hottiebug/" target=”_blank”> DEPOP </a></li>
+                <li><a href="https://www.depop.com/hottiebug/"> DEPOP </a></li>
                 <li><a href="mailto:hottie@bug.com"> EMAIL US </a></li>
        <style>         
           ul {
