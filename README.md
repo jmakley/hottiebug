@@ -40,7 +40,7 @@
     <body>
 
     <div class="center">
-        <img id="logo" src="logo2.png" alt="Hottiebug logo">
+        <img id="logo" src="logo.png" alt="Hottiebug logo">
         <h1>OUR MISSION IS TO PROVIDE AND INSPIRE FASHION, WHILE KEEPING SUSTAINABLITY AND OUR CUSTOMERS AT THE CENTER
             OF THE HOTTIE BUG UNIVERSE
         </h1>
