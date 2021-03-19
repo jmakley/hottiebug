@@ -1,7 +1,7 @@
 # hottiebug
-<html>
+    <html>
 
-<head>
+    <head>
 
     <!-- THE TITLE WILL APPEAR IN THE BROWSER WINDOW OR TAB -->
     <title>Hottie Bug</title>
@@ -35,16 +35,17 @@
     
     </style>
 
-</head>
+      </head>
 
-<body>
+    <body>
 
     <div class="center">
         <img id="logo" src="logo.png" alt="Hottiebug logo">
         <h1>OUR MISSION IS TO PROVIDE AND INSPIRE FASHION, WHILE KEEPING SUSTAINABLITY AND OUR CUSTOMERS AT THE CENTER
             OF THE HOTTIE BUG UNIVERSE
         </h1>
-        <h2>SPECIALIZING IN UNISEXY</h2>
+        <h2>SPECIALIZING IN UNISEXY 
+        </h2>
 
         <nav>
             <ul>
